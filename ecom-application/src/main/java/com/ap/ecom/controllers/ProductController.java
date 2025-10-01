@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.ap.ecom.dto.ProductRequest;
 import com.ap.ecom.dto.ProductResponse;
-import com.ap.ecom.models.Product;
 import com.ap.ecom.service.ProductService;
 
 @RestController
